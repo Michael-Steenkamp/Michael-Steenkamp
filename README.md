@@ -1,48 +1,48 @@
-<!--icon-->
-<!-- name -->
-<!-- welcome -->
-<!-- Stats -->
-
-#### ✨ Featured Repository <a href=""> </a>
-
----
-
-### 🧰 Tools 
-<!-- icond from https://devicon.dev/ -->
+<div align="center">
+  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=9CAFB7&center=true&vCenter=true&width=750&lines=.+.+.;Hello+World!;Michael+Steenkamp's+Profile;B.Sc.+Computer+Science+Graduate;" alt="Typing SVG" />
+</a>
+  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=9CAFB7&center=true&vCenter=true&width=750&lines=Initializing+Profile;[+OK+]+Mounted+/dev/nvme0n1p2+on+/boot/efi;[+OK+]+Logging+in+user;[+OK+]+Syncing+local+repositories" alt="Typing SVG" />
+</a>
 
 ---
 
-### 🏞️ Enviroments
-<!-- icond from https://devicon.dev/ -->
+*Canada-based Software Engineer passionate about low-level systems, optimizing workflows, and delivering clean, modern digital solutions.*
 
 ---
 
-### 🔍 Interests
-+ 👨‍💻 Software Develpment
-+ 🕹️ Game Development
-+ 🕸️ Web Development
-+ 🧠 Machine Learning
-+ 🔐 Software Security
-+ 🔬 Data Science
-+ 🐧 Linux
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Michael-Steenkamp&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Steenkamp&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000" alt="Top Languages" />
+</div>
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=arch,bash,neovim,c,cpp,py,git,windows,vscode,visualstudio,cs,unity,unreal,lua,html,css,js,p5js,php,mysql,raspberrypi&theme=dark&perline=7)](https://skillicons.dev)
+
+</div>
 
 ---
 
-### ☎️ Contact
-+ 📨 <a href="mailto:mstkmp-github@pm.me">Email</a>
-+ 💾 <a href="https://github.com/Michael-Steenkamp/Portfolio/issues">Issues</a>
+<div align="center">
+  <a href="https://github.com/Michael-Steenkamp/SpaceShooter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Michael-Steenkamp&repo=SpaceShooter&theme=tokyonight" alt="GitHub Stats" />
+  </a>
 
----
+  <a href="https://github.com/Michael-Steenkamp/Chinese">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Michael-Steenkamp&repo=Chinese&theme=tokyonight" alt="GitHub Stats" />
+  </a>
 
-<details>
-<summary><h3>❓About</h3></summary>
-</details>
+  <a href="https://github.com/Michael-Steenkamp/Dotfiles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Michael-Steenkamp&repo=Dotfiles&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+</div>
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Steenkamp&show_icons=true&theme=algolia)
-
-#
-#### Resources:
-<a href="https://www.flaticon.com/free-icons/data-science" title="data science icons">Data science icon by Dighital Design</a><br>
-<a href="https://github.com/DenverCoder1/readme-typing-svg" tile="typing text">Typing Text by DenverCoder1</a><br>
-<a href="https://icons8.com" title="tools icons">Tool icons by icons8</a><br>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="github stats">GitHub Stats by anuraghazra</a>
+<div align="center">
+  <a href="mailto:mstkmp-github@pm.me">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=10000&color=9CAFB7&center=true&vCenter=true&width=600&lines=[+Click+To+Execute+Mail+Client+]" alt="Contact Me" />
+  </a>
+</div>
