@@ -28,20 +28,6 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Michael-Steenkamp/SpaceShooter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Michael-Steenkamp&repo=SpaceShooter&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-
-  <a href="https://github.com/Michael-Steenkamp/Chinese">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Michael-Steenkamp&repo=Chinese&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-
-  <a href="https://github.com/Michael-Steenkamp/Dotfiles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Michael-Steenkamp&repo=Dotfiles&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-</div>
-
-<div align="center">
   <a href="mailto:mstkmp-github@pm.me">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=10000&color=9CAFB7&center=true&vCenter=true&width=600&lines=[+Click+To+Execute+Mail+Client+]" alt="Contact Me" />
   </a>
