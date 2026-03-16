@@ -24,6 +24,18 @@
 ### <code>> ls -l ./skills</code>
 [![My Skills](https://skillicons.dev/icons?i=arch,bash,neovim,c,cpp,py,git,windows,vscode,visualstudio,cs,unity,unreal,lua,html,css,js,p5js,php,mysql,raspberrypi&theme=dark&perline=7)](https://skillicons.dev)
 
+<details>
+<summary>
+  
+### <code> sudo lshw -short && cat /etc/os-release</code>
+</summary>
+  <h4> 📔 <i> ROG STRIX B650E-I </i> 📔 </h4>
+  <h4> ⚙️ <i> AMD Ryzen 9 7950X </i> ⚙️ </h4>
+  <h4> 🧠 <i> Corsair 64GB DDR5 CL30 </i> 🧠 </h4>
+  <h4> 🖥️ <i> NVIDIA GeForce RTX 5070 </i> 🖥️ </h4>
+  <h4> 🔗 <i> Dual Boot Win11 & Arch Linux </i> 🔗 </h4>
+</details>
+
 </div>
 
 ---
