@@ -24,10 +24,10 @@
 ### <code>> ls -l ./skills</code>
 [![My Skills](https://skillicons.dev/icons?i=arch,bash,neovim,c,cpp,py,git,windows,vscode,visualstudio,cs,unity,unreal,lua,html,css,js,p5js,php,mysql,raspberrypi&theme=dark&perline=7)](https://skillicons.dev)
 
+<!--
 <details>
 <summary>
-
-<!--
+  
 ### <code> sudo lshw -short && cat /etc/os-release</code>
 </summary>
   <h4> 📔 <i> ROG STRIX B650E-I </i> 📔 </h4>
