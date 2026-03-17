@@ -26,15 +26,17 @@
 
 <details>
 <summary>
-  
+
+<!--
 ### <code> sudo lshw -short && cat /etc/os-release</code>
 </summary>
   <h4> 📔 <i> ROG STRIX B650E-I </i> 📔 </h4>
-  <h4> ⚙️ <i> AMD Ryzen 9 7950X </i> ⚙️ </h4>
-  <h4> 🧠 <i> Corsair 64GB DDR5 CL30 </i> 🧠 </h4>
+  <h4> 🧠 <i> AMD Ryzen 9 7950X </i> 🧠 </h4>
+  <h4> ⚙️ <i> Corsair 64GB DDR5 CL30 </i> ⚙️ </h4>
   <h4> 🖥️ <i> NVIDIA GeForce RTX 5070 </i> 🖥️ </h4>
   <h4> 🔗 <i> Dual Boot Win11 & Arch Linux </i> 🔗 </h4>
 </details>
+-->
 
 </div>
 
